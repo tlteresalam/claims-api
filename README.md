@@ -10,5 +10,5 @@ It exposes endpoints to:
 I built this project to practice and demonstrate:
 - **Java** (Spring Boot, layered architecture: controller → service → repository → entity)
 - **SQL** with **MariaDB** (tables for `providers` and `claims`)
-- **REST APIs** (JSON-based endpoints tested with Postman)
+- **REST APIs** (JSON based endpoints tested with Postman)
 - Preparation for deployment to **AWS** (RDS + EC2)
